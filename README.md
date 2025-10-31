@@ -1,4 +1,16 @@
-# Eu sou o Emanuel
-<img src="https://github-readme-stats.vercel.app/api?username=ManuSouzaLima&show_icons=true&theme=dracula" alt="">  
-<img src="https://i.postimg.cc/x8YVyH89/Python-logo-removebg-preview.png)" width="40" height="40"/>
-<img src="https://i.postimg.cc/zXy9MWPf/html5-stickers-adesivo-removebg-preview.png"/>
+# Olá! Eu sou o Emanuel
+<img src="https://github-readme-stats.vercel.app/api?username=ManuSouzaLima&show_icons=true&theme=dracula" alt="">
+
+## Aprendendo e praticando:
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
+</a>
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50"/>       
+</a>
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50"/>       
+</a>
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50"/>       
+</a>
