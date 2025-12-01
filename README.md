@@ -2,6 +2,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ManuSouzaLima&show_icons=true&theme=dracula" alt="">
 
 ## Aprendendo e praticando:
+
+<a href="#">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" />
+</a>
+
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>       
 </a>
