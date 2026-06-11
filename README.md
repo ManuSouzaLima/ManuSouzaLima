@@ -1,5 +1,5 @@
 # Olá! Eu sou o Emanuel
-<img src="https://github-readme-stats.vercel.app/api?username=ManuSouzaLima&show_icons=true&theme=dracula" alt="">
+[![GitHub Streak](https://streak-stats.demolab.com?user=ManuSouzaLima&theme=soft-green&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
